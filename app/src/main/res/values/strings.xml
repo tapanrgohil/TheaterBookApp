@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TheaterBookApp</string>
+    <string name="connection_error">connection error</string>
+    <string name="ok">ok</string>
+    <string name="maximum_seat_selected">Maximum number of seat for zone is already selected </string>
+    <string name="done">Done</string>
+    <string name="selected_seats">Selected seats</string>
+    <string name="sold_seat">Seat is already sold</string>
+    <string name="available">Available</string>
+    <string name="sold">Sold</string>
+</resources>

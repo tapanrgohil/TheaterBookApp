@@ -1,0 +1,2 @@
+rootProject.name='TheaterBookApp'
+include ':app'
